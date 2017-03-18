@@ -1,0 +1,15 @@
+C:\GitHub\WpfTimeElapsedOnTick\WpfTimeElapsedOnTick\bin\Debug\WpfTimeElapsedOnTick.exe.config
+C:\GitHub\WpfTimeElapsedOnTick\WpfTimeElapsedOnTick\bin\Debug\WpfTimeElapsedOnTick.exe
+C:\GitHub\WpfTimeElapsedOnTick\WpfTimeElapsedOnTick\bin\Debug\WpfTimeElapsedOnTick.pdb
+C:\GitHub\WpfTimeElapsedOnTick\WpfTimeElapsedOnTick\obj\Debug\WpfTimeElapsedOnTick.csprojResolveAssemblyReference.cache
+C:\GitHub\WpfTimeElapsedOnTick\WpfTimeElapsedOnTick\obj\Debug\MainWindow.g.cs
+C:\GitHub\WpfTimeElapsedOnTick\WpfTimeElapsedOnTick\obj\Debug\App.g.cs
+C:\GitHub\WpfTimeElapsedOnTick\WpfTimeElapsedOnTick\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\GitHub\WpfTimeElapsedOnTick\WpfTimeElapsedOnTick\obj\Debug\WpfTimeElapsedOnTick_MarkupCompile.cache
+C:\GitHub\WpfTimeElapsedOnTick\WpfTimeElapsedOnTick\obj\Debug\WpfTimeElapsedOnTick_MarkupCompile.lref
+C:\GitHub\WpfTimeElapsedOnTick\WpfTimeElapsedOnTick\obj\Debug\MainWindow.baml
+C:\GitHub\WpfTimeElapsedOnTick\WpfTimeElapsedOnTick\obj\Debug\WpfTimeElapsedOnTick.g.resources
+C:\GitHub\WpfTimeElapsedOnTick\WpfTimeElapsedOnTick\obj\Debug\WpfTimeElapsedOnTick.Properties.Resources.resources
+C:\GitHub\WpfTimeElapsedOnTick\WpfTimeElapsedOnTick\obj\Debug\WpfTimeElapsedOnTick.csproj.GenerateResource.Cache
+C:\GitHub\WpfTimeElapsedOnTick\WpfTimeElapsedOnTick\obj\Debug\WpfTimeElapsedOnTick.exe
+C:\GitHub\WpfTimeElapsedOnTick\WpfTimeElapsedOnTick\obj\Debug\WpfTimeElapsedOnTick.pdb

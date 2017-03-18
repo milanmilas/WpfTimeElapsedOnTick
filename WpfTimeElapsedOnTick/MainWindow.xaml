@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfTimeElapsedOnTick.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfTimeElapsedOnTick"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.DataContext>
+        <local:ViewModel/>
+    </Window.DataContext>
+    <Window.Resources>
+        <local:CurrentTime x:Key="currentTime" />
+        <local:ElapsedTimeMultiConverter x:Key="ElapsedTimeMultiConverter" />
+    </Window.Resources>
+    <StackPanel>
+        <TextBlock Text="test"/>
+        <TextBlock Background="Azure">
+            <TextBlock.Text>
+                <MultiBinding Converter="{StaticResource ElapsedTimeMultiConverter}">
+                    <Binding Path="ReservationTime" />
+                    <Binding Path="Now" Source="{StaticResource currentTime}" />
+                </MultiBinding>
+            </TextBlock.Text>
+        </TextBlock>
+    </StackPanel>
+</Window>
